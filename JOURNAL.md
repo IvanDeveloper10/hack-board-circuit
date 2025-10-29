@@ -6,22 +6,9 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Hack Board**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/295).
-
-
 ## 10/7/2025 - Creating the schema  
 
 ![Captura de pantalla 2025-10-07 154509.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcwLCJwdXIiOiJibG9iX2lkIn19--ee1174ca59c7157b1253f884180159fae8cac7f2/Captura%20de%20pantalla%202025-10-07%20154509.png)
 
 I am creating the schematic for the development board, I am using the KiCad software and also the blueprint guide. I added the RP2040, the capacitors, the crystal, the USB port, made the resistor connections, labeled them, and also added the component to regulate the voltage.  
-
-## 10/13/2025 - Working in the schema  
-
-I've been working hard on the blueprint guide. I haven't had a chance to upload any development history lately. The last thing I did was add pins, label, adjust, and reposition.
-
-![Captura de pantalla 2025-10-13 191257.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--41cf9f802dfb1fb480920fa503f4f9b86bc52314/Captura%20de%20pantalla%202025-10-13%20191257.png)
-
-Once the layout is complete, the next step is to work on the PCB routing and organization.
-  
 
