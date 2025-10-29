@@ -6,9 +6,3 @@
   ==================================================================
 -->
 
-## 10/7/2025 - Creating the schema  
-
-![Captura de pantalla 2025-10-07 154509.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcwLCJwdXIiOiJibG9iX2lkIn19--ee1174ca59c7157b1253f884180159fae8cac7f2/Captura%20de%20pantalla%202025-10-07%20154509.png)
-
-I am creating the schematic for the development board, I am using the KiCad software and also the blueprint guide. I added the RP2040, the capacitors, the crystal, the USB port, made the resistor connections, labeled them, and also added the component to regulate the voltage.  
-
