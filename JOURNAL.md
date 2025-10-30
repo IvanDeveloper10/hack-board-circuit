@@ -6,3 +6,9 @@
   ==================================================================
 -->
 
+## 10/30/2025 - Add symbols and organize components.  
+
+I'm creating the blueprint guide for this PCB. Right now, it's taking me a while to add all the components and symbols and organize them. I'm not using EasyIDEA; I'm using KiCAD.
+![Captura de pantalla 2025-10-30 133524](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--23825c7c07eb81258bcb22007e6784152f51328d/Captura%20de%20pantalla%202025-10-30%20133524.png)
+The next step will be to connect everything and then move on to the PCB  
+
