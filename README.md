@@ -4,6 +4,7 @@ This project is a PCB with a theme of heart, a design perfect and the circuit fi
 This project uses passive components, has an excellent LED layout, and is a gift for a colleague. I created the heart shape using the line drawing tool on the PCB cutouts.
 
 I used a capacitor, a potentiometer, a push button, 11 LEDs and also a battery cell as a power source.
+
 <img width="1085" height="680" alt="PCB_3D4" src="https://github.com/user-attachments/assets/a332e850-5f5e-4328-8b84-7289b30f3354" />
 <img width="1078" height="687" alt="PCB_3D3" src="https://github.com/user-attachments/assets/d0702211-b7e6-4c1c-82db-8102eee32f4a" />
 <img width="874" height="718" alt="PCB_3D2" src="https://github.com/user-attachments/assets/9b331902-8b02-431f-9fdb-ac93c9b95a07" />
